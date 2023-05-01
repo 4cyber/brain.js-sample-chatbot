@@ -1,0 +1,20 @@
+{
+    "name": "TrainData",
+    "locale": "it-IT",
+    "data": [
+      {
+        "id": 1,
+        "intent": "saluto",
+        "utterances": [
+          "ciao bot",
+          "buongiorno",
+          "heyla"
+        ],
+        "tests": [
+          "Ciao",
+          "Buona sera",
+          "Salve"
+        ]
+      }
+    ]
+  }
